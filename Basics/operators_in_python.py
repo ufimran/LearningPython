@@ -27,6 +27,15 @@
 
 
 #Comparison operators
+# x = 10  #values are equal or bigger or smaller
+# y = 6
+#
+# print(x == y)
+# print(x != y)
+# print(x > y )
+# print(x < y )
+# print(x >= y )
+# print(x <= y )
 
 #Logical operators
 #Identity operators
