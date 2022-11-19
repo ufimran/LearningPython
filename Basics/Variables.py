@@ -1,8 +1,9 @@
-username="Umar Faruque"
+#username="Umar Faruque"
+username="10.23"
 print(username) #no need to specify data type in python
 #print(190)
+print(type(username))  #Finding the Variable Type
 
-#print(type(username))  #Finding the Variable Type
 
 x=600 #initial value
 print(x)
@@ -11,3 +12,5 @@ print(x)
 
 y=x #reassigning another value
 print(y)
+print(id(x))
+print(id(y))
