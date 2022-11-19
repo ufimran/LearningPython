@@ -16,6 +16,12 @@
 #return= 58653
 #print(return) #won't print
 
-returnn=64564
-print(returnn) #will print
+#returnn=64564
+#print(returnn) #will print
+
+
+#keyword printing
+import keyword
+keywordlist = keyword.kwlist
+print(keywordlist) # list of keyword got printed
 
