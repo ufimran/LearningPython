@@ -38,13 +38,37 @@
 # print(x <= y )
 
 #Logical operators
-x=10
-y=4
+#x=10
+#y=4
 
-print(x==y and x>y)
-print(x==y or x>y)
+#print(x==y and x>y)
+#print(x==y or x>y)
 
 
-#Identity operators
-#Membership operators
-#Bitwise operators
+#Identity operators (two objects are compared, shows true or false)
+# x = ["Umar", "Faruque"]
+# y = ["Umar", "Faruque"]
+
+# print(x is y) #false
+# print(x == y) #true
+# print(x is not y) #true
+
+
+#Membership operators (are in or not in)
+# x = ["Umar", "Faruque"]
+# y = ["Umar", "Faruque"]
+#
+# print("Faruque" in y)
+# print("Faruque" not in y)
+
+
+#Bitwise operators (Mostly works in Binary numbers)
+#bitwise operators are "&"AND, "|"OR, "~"NOT, "^"XOR
+# 0 - 00
+# 1 - 01
+# 2 - 10
+# 3 - 11
+# x = 10
+# y = 11
+# print(x & y)
+# print(x | y)
