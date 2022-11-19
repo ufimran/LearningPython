@@ -1,4 +1,4 @@
-#Python Arithmetic Operators
+# Python Arithmetic Operators
 # Addition: +
 # Substraction: -
 # Multiplication: *
@@ -6,6 +6,10 @@
 # Modulo(Remainder): %
 # Exponentiation: **
 
-x = 10
-y = 2
-z =
+# x = 10
+# y = 2
+# z = x * y
+# print(z)
+# z= z + 5
+# z +=5
+# print(z)
