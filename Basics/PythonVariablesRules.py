@@ -21,7 +21,7 @@
 
 
 #keyword printing
-import keyword
-keywordlist = keyword.kwlist
-print(keywordlist) # list of keyword got printed
+#import keyword
+#keywordlist = keyword.kwlist
+#print(keywordlist) # list of keyword got printed
 
