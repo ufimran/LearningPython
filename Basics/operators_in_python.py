@@ -11,10 +11,23 @@
 # print(x//y) #floor division, round the result to nearest full number
 
 
-#Assignment operators
+# #Assignment operators
+# x = 10 # "=" is assigning operator
+# x += 2
+# print(x) #adding
+# x -= 4
+# print(x) #substract
+# x *= 4
+# print(x)
+# x /= 4
+# print(x)
+# x **= 4
+# print(x)
+
 
 
 #Comparison operators
+
 #Logical operators
 #Identity operators
 #Membership operators
