@@ -38,6 +38,13 @@
 # print(x <= y )
 
 #Logical operators
+x=10
+y=4
+
+print(x==y and x>y)
+print(x==y or x>y)
+
+
 #Identity operators
 #Membership operators
 #Bitwise operators
