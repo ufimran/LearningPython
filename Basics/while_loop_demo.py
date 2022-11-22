@@ -14,3 +14,8 @@
 # print("Out of while loop")
 
 city = "Melbourne"
+x = 0
+while x < len(city):
+    print(city[x])
+    x = x + 1
+print("'Melbourne' is printed Separatetly")
