@@ -6,6 +6,7 @@ I watched and mimic the videos to have a better understanding on Basic.
 Got familiar with-
 
 -> Variables(Data Types i.e. String, Float, Integer etc.), Address using id().
+
 -> Variable rules
 
 -> Operators i.e. Arithmatic Operator, Assignment Operator, Comparison Operator, Logical Operators, Identity Operators, Membership Operators, and Bitwise Operators.
@@ -37,4 +38,12 @@ Got familiar with-
 -> Dictionaries
 -> Dictionary methods -  get(), key(), item(),values(), pop() etc.
 
--> If-Else in Python
+-> If-Else, While Loop, Break and Continue, For Loop.
+
+-> Built-in-functions in Python.
+
+-> Writing files.io, Read data of any of the files.
+
+-> Write data to excel, and reading data from excel.
+
+-> Generating testing data with Faker Package in Python
