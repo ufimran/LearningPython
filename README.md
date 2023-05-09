@@ -6,7 +6,6 @@ I watched and mimic the videos to have a better understanding on Basic.
 Got familiar with-
 
 -> Variables(Data Types i.e. String, Float, Integer etc.), Address using id().
-
 -> Variable rules
 
 -> Operators i.e. Arithmatic Operator, Assignment Operator, Comparison Operator, Logical Operators, Identity Operators, Membership Operators, and Bitwise Operators.
@@ -33,8 +32,9 @@ Got familiar with-
 -> Set Methods - add(elem), remove(elem), discard(elem), pop(), clear(), union(), update(), intersection(), intersection_update() etc.
 
 -> Tuples
--> Tuple methods - Count, Index, Access, Demo.
+-> Tuple methods - Count, Index, Access, Demo etc.
 
 -> Dictionaries
--> 
-Will continue from here https://www.youtube.com/watch?v=ApZ6LX5g9Ys&list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz&index=29
+-> Dictionary methods -  get(), key(), item(),values(), pop() etc.
+
+-> If-Else in Python
