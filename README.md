@@ -16,10 +16,15 @@ Got familiar with-
 -> Boolean Datatype (True, False)
 
 
+
 -> Strings in Python
+
 -> String Functions. i.e. len(s), str(), upper(), count(sub[, start[, end]]):, isupper(), islower(), etc.
+
 -> String Slicing in Python.
+
 -> How to format strings in Python
+
 
 -> Lists in Python, contains multiple variables in the list.
 -> List Methods. i.e. list.append(x), list.insert(x), list.remove(x), list.count(x), list.sort(), list.reverse, list.copy(), list.clear()
